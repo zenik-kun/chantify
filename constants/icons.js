@@ -1,5 +1,6 @@
 import bookmark from "../assets/icons/bookmark.png";
 import attendance from "../assets/icons/attendance.png";
+import chant from "../assets/icons/chant.png";
 import home from "../assets/icons/home.png";
 import plus from "../assets/icons/plus.png";
 import profile from "../assets/icons/profile.png";
@@ -16,6 +17,7 @@ import play from "../assets/icons/play.png";
 export default {
   play,
   bookmark,
+  chant,
   attendance,
   home,
   plus,
